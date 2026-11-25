@@ -6,7 +6,7 @@
 
 ## 开发
 ``` bash
-# 克隆仓库
+# 克隆仓库克隆仓库
 git clone https://github.com/ppz-pro/mess-reader.git
 # 进入项目目录
 cd mess-reader
